@@ -1,1 +1,1 @@
-{"name": "意大利旅行助手", "short_name": "意大利行程", "start_url": "./", "display": "standalone", "background_color": "#f5f6f2", "theme_color": "#205f4f", "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
+{"name": "意大利旅行助手", "short_name": "意大利行程", "start_url": "./", "display": "standalone", "background_color": "#f5f3f0", "theme_color": "#222b48", "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
